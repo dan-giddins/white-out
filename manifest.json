@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "SquareUp",
+  "name": "WhiteOut",
   "version": "1.0",
-  "description": "Make all rounded corners square.",
+  "description": "Force a forground text colour of black and a background colour of white.",
 
   "icons": {
     "16": "images/icon-16.png",
