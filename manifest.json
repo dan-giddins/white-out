@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "WhiteOut",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Force a forground text colour of black and a background colour of white.",
 
   "icons": {
